@@ -1,10 +1,12 @@
-Para iniciar la alpicaicon y el servidor, ejecuta lo siguiente en la terminal:
+Para iniciar la alpicaicon y el servidor, ejecuta lo siguiente:
+Descarga el .ZIP con los archivos
 1. cd G4_TBBT_Api-App-main
 2. npm install
 3. node.js to the api
-4. cd big-bang-theory-app
-5. npm install
-6. npm start yo the app
+4. cd G4_TBBT_Api-App-main
+5. cd big-bang-theory-app
+6. npm install
+7. npm start yo the app
 
 
 Cómo crear una API con un servidor Express y consumirla con una app de React
